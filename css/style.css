@@ -1,0 +1,33 @@
+body {
+  font: 20px Verdana, Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #4bccb8;
+}
+
+.quem-sou {
+  background-color: #505050;
+  color: #4bccb8;
+}
+
+.margin {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.parceiros {
+  background-color: #4bccb8;
+  color: #505050;
+}
+
+.servicos {
+  background-color: #505050;
+  color: #4bccb8;
+}
+
+.bg-footer {
+  background-color: #252424;
+  color: #dcdcdc;
+  padding-bottom: 17px;
+}
